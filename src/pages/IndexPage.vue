@@ -1,3 +1,5 @@
+git add src/pages/IndexPage.vue
+git commit -m "add new feature 1"
 <template>
   <div class="q-pa-md" style="max-width: 400px">
 
@@ -83,3 +85,4 @@ export default {
   }
 }
 </script>
+// new feature 1
